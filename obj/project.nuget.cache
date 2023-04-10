@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qUud6tj6bXOLoDYRXinDcXC0nrrhk3VuWApdJAI+Rmy6hMpyHIwpzU2U7ywxnsIBKC051lzOsEu4CtZmVCMyvg==",
+  "dgSpecHash": "2+ym90Octe5VTdrj2VPLnEwIefV+GO1VScqnPlOkAz/fsXAxdZ2YMjDaDNtBU1+ETYALsyiNtHTDmOgwcVk0Mg==",
   "success": true,
   "projectFilePath": "D:\\Documents\\Semester 4\\Software Construction\\Modul 8\\modul8_1302213030\\modul8_1302213030\\modul8_1302213030.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
